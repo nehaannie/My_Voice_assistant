@@ -28,7 +28,6 @@ My Voice Assistant is a voice-controlled personal assistant that can perform var
 
 <video width="640" controls>
   <source src="vo.mp4" type="video/mp4">
-
 </video>
 
 
