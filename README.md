@@ -28,7 +28,7 @@ My Voice Assistant is a voice-controlled personal assistant that can perform var
 
 Check out the video demonstration of the Jarvis Assistant:
 
-[Download and Watch the Video](https://github.com/nehaannie/My_Voice_assistant/raw/main/vo.mp4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://github.com/nehaannie/My_Voice_assistant/raw/main/vo.mp4)
 
 ## Prerequisites
 
