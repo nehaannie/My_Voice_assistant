@@ -27,7 +27,7 @@ My Voice Assistant is a voice-controlled personal assistant that can perform var
 ## Demo
 
 <video width="640" controls>
-  <source src="vo.mp4" type="video/mp4">
+  <source src="[vo.mp4](https://github.com/nehaannie/My_Voice_assistant/blob/main/vo.mp4)" type="video/mp4">
 </video>
 
 
